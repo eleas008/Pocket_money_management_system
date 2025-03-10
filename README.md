@@ -9,7 +9,7 @@ Pockect money management system is a small python project . It is a desktop base
 
 Components:
   1.Python (Version 3.12.1)
-  2.sqlite3 (For database)[It's a third party app and it's very lightweight app and easy to install. You can download it from "https://www.sqlite.org/download.html"]
+  2.sqlite3 (For database)[It's a third party app. It's very lightweight app and easy to install. You can download it from "https://www.sqlite.org/download.html"]
   3.Packeges: tkinter,sqlite3,datetime
   
 Objectives:
